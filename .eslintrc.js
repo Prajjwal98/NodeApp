@@ -12,5 +12,6 @@ module.exports = {
   },
   rules: {
     'no-console': 'off',
+    'comma-dangle': 'off'
   },
 };
